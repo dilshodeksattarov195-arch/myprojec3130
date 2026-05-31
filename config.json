@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvelete",
+        "uuid": 25975870,
+        "checksum": "t2450e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
